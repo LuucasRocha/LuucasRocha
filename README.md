@@ -47,15 +47,6 @@ I have developed projects involving data structures, desktop applications and we
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luucasrocha&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasrocha&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎯 Goals
 
 - Become a professional Backend Developer  
