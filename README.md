@@ -16,13 +16,13 @@ I have developed projects involving data structures, desktop applications and we
 
 ---
 
-## 📌 Current Role
+### 📌 Current Role
 - 💻 Information Systems Student | Backend Developer in progress  
 
-## 🎓 Education:
+### 🎓 Education:
 - 🎓 Information Systems, UCL - (2022-2026)  
 
-## 📫 Let's Connect:
+### 📫 Let's Connect:
 - 🔗 LinkedIn: https://www.linkedin.com/in/lucas-rocha-64376a249 
 - 📧 Email: lucasrocha@ucl.br
 
